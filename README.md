@@ -19,6 +19,10 @@ To write a program to find the GCD of two numbers using function.
 ## Program:
 
 ```python
+#Program to find the square root for the given number(newton's method) using function.
+#Developed by: Priyadharshini
+#RegisterNumber: 22008758
+
 def gcd():
     x,y=int(input()),int(input())
     if x>y:
